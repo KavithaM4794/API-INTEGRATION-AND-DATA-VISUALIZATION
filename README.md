@@ -1,4 +1,17 @@
 # Marvel API Data Integration and Visualization
+---
+**KAVITHA M**  
+
+**Company**: CODETECH IT SOLUTIONS  
+
+**Id**: CT08WEB
+
+**Domain**: PYTHON PROGRAMMING 
+
+**Duration**: FEB 25th 2025 to MARCH 25th, 2025 
+
+**Mentor Name** : Neela Santhosh
+----
 
 ## Introduction
 This project focuses on the integration and automation of data extraction from the Marvel API using Docker, InfluxDB, and Grafana. The primary goal is to create a real-time data visualization system, leveraging the flexibility and capabilities of these tools.
@@ -67,10 +80,3 @@ This graph shows the number of comics available for a selected list of character
 
 ## Conclusions
 We have developed a system capable of extracting, storing, and visualizing data from the Marvel API in an automated manner using Docker, InfluxDB, and Grafana. Future improvements could include additional Python script functionalities and new data visualizations in Grafana.
-
-## References
-- [Docker Documentation](https://docs.docker.com/)
-- [Grafana Documentation](https://grafana.com/docs/grafana/latest/)
-- [InfluxDB Documentation](https://docs.influxdata.com/influxdb/v2/)
-- [Marvel Developer Portal](https://developer.marvel.com/)
-- [MIT Technology Review (2024)](https://www.technologyreview.com/2024/01/15/1086461/outperforming-competitors-as-a-data-driven-organization/)
